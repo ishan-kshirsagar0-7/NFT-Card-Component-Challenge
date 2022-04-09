@@ -24,11 +24,11 @@ Users should be able to:
 
 ### Screenshot
 
-# No Hover :
+#### No Hover :
 
 ![](./screenshot_no_hover.jpg)
 
-# Image Hover :
+#### Image Hover :
 
 ![](./screenshot_img_hover.jpg)
 
