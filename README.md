@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click Here](https://www.frontendmentor.io/solutions/html5-and-css-BkN-Zx14c){:target="_blank"}
-- Live Site URL: [Click Here](https://nft-preview-comp0nent.netlify.app/){:target="_blank"}
+- Solution URL: [Click Here](https://www.frontendmentor.io/solutions/html5-and-css-BkN-Zx14c)
+- Live Site URL: [Click Here](https://nft-preview-comp0nent.netlify.app/)
 
 ## My process
 
