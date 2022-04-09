@@ -1,0 +1,123 @@
+body{
+    background-color: hsl(217, 54%, 11%);
+}
+
+#card{
+    background-color: hsl(216, 50%, 16%);
+    margin: 111px auto;
+    width: 250px;
+    padding: 17px 17px 50px 17px;
+    border-radius: 15px;
+    box-shadow: 0px 12px 5px 20px #0c1729, 2px 24px 5px 30px #0c192c;
+}
+
+#bottom{
+    background-image: url("/images/image-equilibrium.jpg");
+    background-size: cover;
+    width: 250px;
+    height: 250px;
+    border-radius: 7px;
+}
+
+#overlay{
+    background-color:hsla(178, 100%, 50%, 0.5);
+    height: calc(100% - 1px);
+    width: calc(100% - 1px);
+    border-radius: 7px;
+    opacity: 0;
+}
+
+#overlay img{
+    margin: 105px 105px;
+    width: 40px;
+    opacity: 100;
+}
+
+#overlay:hover{
+    opacity: 50;
+    cursor: pointer;
+}
+
+#head{
+    font-family: 'Outfit', sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    color: aliceblue;
+}
+
+#head:hover{
+    color:hsl(178, 100%, 50%);
+    cursor: pointer;
+}
+
+#text{
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    color: hsl(215, 51%, 70%);
+    font-size: 14.6px;
+}
+
+#eth{
+    font-family: 'Outfit', sans-serif;
+    font-weight: 600;
+    color: #08fcfc;
+    font-size: 14px;
+    padding-top: 5px;
+    width:37%;
+}
+
+#duration{
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    color: hsl(215, 51%, 70%);
+    font-size: 13px;
+    float: right;
+    padding-top: 5px;
+    padding-left: 73px;
+}
+
+.container{
+    display: flex;
+}
+
+#rule{
+    margin-top: 19px;
+    color: hsl(215, 32%, 27%);
+    margin-bottom: -4px;
+}
+
+#face{
+    width: 25px;
+    height: 25px;
+    border: 1px solid white;
+    border-radius: 40px;
+    margin:auto;
+}
+
+#created{
+    display: inline-flex;
+    float:left;
+}
+
+#by{
+    float: left;
+    padding-top: 7px;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    font-size: 13.3px;
+    color: hsl(215, 51%, 70%);
+}
+
+#name{
+    float: left;
+    padding-top: 7px;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    font-size: 13.3px;
+    color: aliceblue;
+}
+
+#name:hover{
+    color: hsl(178, 100%, 50%);
+    cursor: pointer;
+}
